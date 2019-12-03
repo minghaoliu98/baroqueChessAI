@@ -1,0 +1,293 @@
+**** Baroque Chess Gamemaster v1.0-BETA *****
+The Gamemaster says, "Players, introduce yourselves."
+ (Playing WHITE:) I'm The Pro, a pro Baroque Chess agent programmed by two non-pro Baroque Chess players whose names are Simon and Bob.Hanze (Simon) Zhang: zhzsimon; Chingpo Lin: ljb123.
+ (Playing BLACK:) I'm Baroque Go, created by Erik(huangti) and Mark(lmh98), let's play a round of Baroque chess!
+
+The Gamemaster says, "Let's Play!"
+
+The initial state is...
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P P 
+F L I W K I L C 
+WHITE's move
+
+=================================================
+Number of States Expanded: 17
+Number of Cut Offs: 0
+=================================================
+Time used in makeMove: 1.9972 seconds out of  2
+WHITE's move: the P at (6, 0) to (5, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 1: Move is by WHITE
+Pro says: i move pincer, andI'll think harder in some future game. Here's my move
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P - - - - - - - 
+- P P P P P P P 
+F L I W K I L C 
+BLACK's move
+
+playing as: black
+=================================================
+Report of Zobrist Hashing Status for BaroqueGO: 
+PUT COUNT: 2304
+Success GET COUNT: 145
+Failed GET COUNT: 2304
+Game Collision COUNT: 0
+Saved Static Eval COUNT: 2304
+Max play reached: 3
+=================================================
+Number of States Expanded: 609
+Number of Cut Offs: 547
+=================================================
+Time used in makeMove: 1.9864 seconds out of  2
+BLACK's move: the p at (1, 3) to (4, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 2: Move is by BLACK
+BaroqueGo says: Here's my move, I think this game is gonna be easy
+c l i w k i l f 
+p p p - p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - p - - - - 
+P - - - - - - - 
+- P P P P P P P 
+F L I W K I L C 
+WHITE's move
+
+=================================================
+Number of States Expanded: 29
+Number of Cut Offs: 0
+=================================================
+Time used in makeMove: 1.9971 seconds out of  2
+WHITE's move: the F at (7, 0) to (6, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 3: Move is by WHITE
+Pro says: i move freezer, andthis step is important
+c l i w k i l f 
+p p p - p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - p - - - - 
+P - - - - - - - 
+F P P P P P P P 
+- L I W K I L C 
+BLACK's move
+
+playing as: black
+=================================================
+Report of Zobrist Hashing Status for BaroqueGO: 
+PUT COUNT: 5276
+Success GET COUNT: 258
+Failed GET COUNT: 5175
+Game Collision COUNT: 101
+Saved Static Eval COUNT: 5276
+Max play reached: 3
+=================================================
+Number of States Expanded: 1144
+Number of Cut Offs: 1007
+=================================================
+Time used in makeMove: 1.9880 seconds out of  2
+BLACK's move: the p at (1, 0) to (4, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 4: Move is by BLACK
+BaroqueGo says: Hmmm let me think, I'd say I'm doing pretty good
+c l i w k i l f 
+- p p - p p p p 
+- - - - - - - - 
+- - - - - - - - 
+p - - p - - - - 
+P - - - - - - - 
+F P P P P P P P 
+- L I W K I L C 
+WHITE's move
+
+=================================================
+Number of States Expanded: 40
+Number of Cut Offs: 0
+=================================================
+Time used in makeMove: 1.9974 seconds out of  2
+WHITE's move: the F at (6, 0) to (5, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 5: Move is by WHITE
+Pro says: i move freezer, andI see hope to win
+c l i w k i l f 
+- p p - p p p p 
+- - - - - - - - 
+- - - - - - - - 
+p - - p - - - - 
+P F - - - - - - 
+- P P P P P P P 
+- L I W K I L C 
+BLACK's move
+
+playing as: black
+=================================================
+Report of Zobrist Hashing Status for BaroqueGO: 
+PUT COUNT: 8157
+Success GET COUNT: 383
+Failed GET COUNT: 7904
+Game Collision COUNT: 253
+Saved Static Eval COUNT: 8157
+Max play reached: 3
+=================================================
+Number of States Expanded: 1675
+Number of Cut Offs: 1462
+=================================================
+Time used in makeMove: 1.9894 seconds out of  2
+BLACK's move: the w at (0, 3) to (3, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 6: Move is by BLACK
+BaroqueGo says: Hahah, do you realize that I might actually be able to win
+c l i - k i l f 
+- p p - p p p p 
+- - - - - - - - 
+- - - w - - - - 
+p - - p - - - - 
+P F - - - - - - 
+- P P P P P P P 
+- L I W K I L C 
+WHITE's move
+
+=================================================
+Number of States Expanded: 50
+Number of Cut Offs: 0
+=================================================
+Time used in makeMove: 1.9984 seconds out of  2
+WHITE's move: the F at (5, 1) to (2, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 7: Move is by WHITE
+Pro says: i move freezer, andit's seem to be a good start
+c l i - k i l f 
+- p p - p p p p 
+- F - - - - - - 
+- - - w - - - - 
+p - - p - - - - 
+P - - - - - - - 
+- P P P P P P P 
+- L I W K I L C 
+BLACK's move
+
+playing as: black
+=================================================
+Report of Zobrist Hashing Status for BaroqueGO: 
+PUT COUNT: 11631
+Success GET COUNT: 471
+Failed GET COUNT: 11276
+Game Collision COUNT: 355
+Saved Static Eval COUNT: 11631
+Max play reached: 3
+=================================================
+Number of States Expanded: 2179
+Number of Cut Offs: 1887
+=================================================
+Time used in makeMove: 1.9921 seconds out of  2
+BLACK's move: the i at (0, 2) to (4, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 8: Move is by BLACK
+BaroqueGo says: Okay, here you go, you just made a big mistake
+c l - - k i l f 
+- p p - p p p p 
+- F - - - - - - 
+- - - w - - - - 
+p - - p - - i - 
+P - - - - - - - 
+- P P P P P P P 
+- L I W K I L C 
+WHITE's move
+
+=================================================
+Number of States Expanded: 59
+Number of Cut Offs: 0
+=================================================
+Time used in makeMove: 1.9999 seconds out of  2
+WHITE's move: the F at (2, 1) to (1, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 9: Move is by WHITE
+Pro says: i move freezer, andoh, you look very strong
+c l - - k i l f 
+F p p - p p p p 
+- - - - - - - - 
+- - - w - - - - 
+p - - p - - i - 
+P - - - - - - - 
+- P P P P P P P 
+- L I W K I L C 
+BLACK's move
+
+playing as: black
+=================================================
+Report of Zobrist Hashing Status for BaroqueGO: 
+PUT COUNT: 14941
+Success GET COUNT: 570
+Failed GET COUNT: 14573
+Game Collision COUNT: 368
+Saved Static Eval COUNT: 14941
+Max play reached: 3
+=================================================
+Number of States Expanded: 2649
+Number of Cut Offs: 2272
+=================================================
+Time used in makeMove: 1.9918 seconds out of  2
+BLACK's move: the p at (4, 0) to (2, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 10: Move is by BLACK
+BaroqueGo says: Here's my move, I think this is an obvious move
+c l - - k i l f 
+- p p - p p p p 
+p - - - - - - - 
+- - - w - - - - 
+- - - p - - i - 
+P - - - - - - - 
+- P P P P P P P 
+- L I W K I L C 
+WHITE's move
+
+=================================================
+Number of States Expanded: 71
+Number of Cut Offs: 0
+=================================================
+Time used in makeMove: 1.9981 seconds out of  2
+WHITE's move: the P at (5, 0) to (7, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 11: Move is by WHITE
+Pro says: i move pincer, andtough situation
+c l - - k i l f 
+- p p - p p p p 
+p - - - - - - - 
+- - - w - - - - 
+- - - p - - i - 
+- - - - - - - - 
+- P P P P P P P 
+P L I W K I L C 
+BLACK's move
